@@ -1,4 +1,4 @@
-// Some code thanks to @chrisgannon
+// 2026
 
 var select = function(s) {
   return document.querySelector(s);
